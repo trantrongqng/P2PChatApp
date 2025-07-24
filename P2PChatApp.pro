@@ -19,3 +19,7 @@ HEADERS += \
 RESOURCES += \
     qml.qrc
 
+DISTFILES += \
+    Server.py \
+    run_all.bat
+
