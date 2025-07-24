@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>Animation/FadeSlideIn.qml</file>
+        <file>LoginView.qml</file>
+        <file>ChatView.qml</file>
+        <file>Picture/picture.png</file>
+        <file>Picture/password.svg</file>
+        <file>Picture/user_icon.svg</file>
+        <file>Picture/avatar.png</file>
+        <file>Picture/eye_closed.svg</file>
+        <file>Picture/eye_open.svg</file>
+        <file>JS/Color.js</file>
+        <file>JS/resource.js</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,15 @@
+release/DatabaseManager.o
+release/main.o
+release/AppController.o
+release/WebSocketClient.o
+release/Main_qml.o
+release/ChatView_qml.o
+release/LoginView_qml.o
+release/JS_Color_js.o
+release/JS_resource_js.o
+release/Animation_FadeSlideIn_qml.o
+release/qmlcache_loader.o
+release/qrc_qml_qmlcache.o
+release/moc_AppController.o
+release/moc_DatabaseManager.o
+release/moc_WebSocketClient.o

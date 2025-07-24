@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="Main.qml">../../Main.qml</file>
+        <file alias="Animation/FadeSlideIn.qml">../../Animation/FadeSlideIn.qml</file>
+        <file alias="LoginView.qml">../../LoginView.qml</file>
+        <file alias="ChatView.qml">../../ChatView.qml</file>
+        <file alias="Picture/picture.png">../../Picture/picture.png</file>
+        <file alias="Picture/password.svg">../../Picture/password.svg</file>
+        <file alias="Picture/user_icon.svg">../../Picture/user_icon.svg</file>
+        <file alias="Picture/avatar.png">../../Picture/avatar.png</file>
+        <file alias="Picture/eye_closed.svg">../../Picture/eye_closed.svg</file>
+        <file alias="Picture/eye_open.svg">../../Picture/eye_open.svg</file>
+        <file alias="JS/Color.js">../../JS/Color.js</file>
+        <file alias="JS/resource.js">../../JS/resource.js</file>
+    </qresource>
+</RCC>

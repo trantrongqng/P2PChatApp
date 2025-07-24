@@ -1,0 +1,15 @@
+debug/DatabaseManager.o
+debug/main.o
+debug/AppController.o
+debug/WebSocketClient.o
+debug/Main_qml.o
+debug/ChatView_qml.o
+debug/LoginView_qml.o
+debug/JS_Color_js.o
+debug/JS_resource_js.o
+debug/Animation_FadeSlideIn_qml.o
+debug/qmlcache_loader.o
+debug/qrc_qml_qmlcache.o
+debug/moc_AppController.o
+debug/moc_DatabaseManager.o
+debug/moc_WebSocketClient.o
