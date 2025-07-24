@@ -36,8 +36,8 @@ async def echo(websocket):
         connected.discard(websocket)
 
 async def main():
-    server = await websockets.serve(echo, "192.168.1.11", 12345,  max_size=None)
-    print("✅ WebSocket server đang chạy tại ws://192.168.1.11:12345")
+    server = await websockets.serve(echo, "0.0.0.0", 12345,  max_size=None)
+    print("✅ WebSocket server đang chạy tại ws://0.0.0.0:12345")
     await server.wait_closed()
 
 asyncio.run(main())
