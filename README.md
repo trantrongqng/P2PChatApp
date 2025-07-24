@@ -15,7 +15,12 @@
 
 **Cách 1: Dùng script tự động**
 run_all.bat
+Trong cửa sổ ứng dụng, nhập địa chỉ IP của máy đang chạy server
+Ví dụ:
+ws://192.168.1.11:12345
+⚠️ Lưu ý: IP sẽ thay đổi tùy máy. Bạn cần nhập đúng IP nội bộ của máy chủ
 
+Nhập tên người dùng → Nhấn "Đăng nhập" để bắt đầu chat
 **Cách 2: Tự chạy thủ công
 Mở cmd: 
 cd Server
